@@ -1,8 +1,9 @@
 # Hi there 👋
 ### My name is Jhon Alexis
 I’m a systems enginieering student 
-- 🌱 I’m currently learning Java
-- Learning functional programming in Scala
+- 🌱 I’m learning about mobile programming
+- I’m practicing web development with university projects
+Currently looking for opportunities to demonstrate what i am capable of in th workplace.
 <!--
 **JAlexis1/JAlexis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
